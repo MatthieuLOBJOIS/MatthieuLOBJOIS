@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio web site
 - 🌱 I’m currently learning react and node.js
 - 🏠 I'm living France
-- 📫 How to reach me : lobjois.mt@gmail.com
+- 📫 How to reach me : lobjois.matthieu.pro@gmail.com
 
 ## Skills and Experience : 
 
