@@ -7,5 +7,5 @@
 
 ## Skills and Experience : 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,nodejs,php,vscode&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,nodejs,php,python,vscode&theme=light)](https://skills.thijs.gg)
 
