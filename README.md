@@ -3,6 +3,8 @@
 ## 📈 Stats
 ![MatthieuLOBJOIS Stats](https://github-readme-stats.vercel.app/api?username=MatthieuLOBJOIS&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 About Me
 - 🔭 I’m currently looking for a new opportunity
 - 🌱 I’m currently learning Python and Django
