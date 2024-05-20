@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuLOBJOIS&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+![Codewars](https://www.codewars.com/users/MatthieuLOBJOIS/badges/large)
+
 ## 🚀 About Me
 - 🔭 I’m currently looking for a new opportunity
 - 🌱 I’m currently learning Python and Django
