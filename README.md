@@ -16,4 +16,4 @@
 ## 🦾 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,react,vscode)](https://skillicons.dev)
 
-I am currently focusing on => [![My Skills Learn](https://skillicons.dev/icons?i=python,django,postgresql)](https://skillicons.dev)
+I am currently focusing on => [![My Skills Learn](https://skillicons.dev/icons?i=python,django,mongodb,vuejs)](https://skillicons.dev)
