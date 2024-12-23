@@ -6,10 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuLOBJOIS&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
-- 🔭 I’m currently looking for a new opportunity
-- 🌱 I’m currently learning Vue.js
 - 🏠 I'm living France
-- 📫 How to reach me : lobjois.matthieu.pro@gmail.com
+- 📫 How to reach me : [lobjois.matthieu.pro@gmail.com](lobjois.matthieu.pro@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/matthieulobjois/) 
 
 ## 🦾 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,python,react,vscode)](https://skillicons.dev)
